@@ -1,3 +1,4 @@
-/scripting/*
-!/scripting/hello-world.sp
+/scripting/*/
+/scripting/spcomp*
+/scripting/compile*
 .vscode
