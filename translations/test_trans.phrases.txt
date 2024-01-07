@@ -1,0 +1,25 @@
+"Phrases"
+{
+    "hello world"
+    {
+        "en"    "Hello World!"
+        "jp"    "はろーわーるど！"
+    }
+    "not enough arguments"
+    {
+        "en"    "Not enough arguments!"
+        "jp"    "引数が足りません！"
+    }
+    "too many arguments"
+    {
+        "#format"   "{1:d}"
+        "en"    "Too many arguments! args: {1}"
+        "jp"    "引数が多すぎます！ 引数の数: {1}"
+    }
+    "notify"
+    {
+        "#format"   "{1:s},{2:s},{3:s}"
+        "en"        "{1} has specified {3} as command {2}'s first argument"
+        "jp"        "{1}はコマンド{2}の最初の引数として{3}を指定しました"
+    }
+}
